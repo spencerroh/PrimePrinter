@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimePrinter", "PrimePrinter\PrimePrinter.csproj", "{9A9A927B-BE8E-435B-A220-D4170E27674C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimePrinterTest", "PrimePrinterTest\PrimePrinterTest.csproj", "{27FC9831-DAEB-4364-90F0-58F85D76F264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9A927B-BE8E-435B-A220-D4170E27674C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9A927B-BE8E-435B-A220-D4170E27674C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9A927B-BE8E-435B-A220-D4170E27674C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9A927B-BE8E-435B-A220-D4170E27674C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FC9831-DAEB-4364-90F0-58F85D76F264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FC9831-DAEB-4364-90F0-58F85D76F264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FC9831-DAEB-4364-90F0-58F85D76F264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FC9831-DAEB-4364-90F0-58F85D76F264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
